@@ -16,6 +16,7 @@ Custom component disiplinini de unutma.
 Başarılar :)
 
 EkranGörüntüleri:
-![Screenshot_1685893418](https://github.com/yusufcandmrz/to-do/assets/93606208/82a040bd-7aaa-4b72-a6a5-acc505831cee)
-![Screenshot_1685893427](https://github.com/yusufcandmrz/to-do/assets/93606208/f9c39322-7e69-471d-8c23-f3261e01875b)
-![Screenshot_1685893432](https://github.com/yusufcandmrz/to-do/assets/93606208/60e1a3c5-6a70-4b10-90bc-a34fec311f58)
+![Screenshot_1687247488](https://github.com/yusufcandmrz/to-do/assets/93606208/02635b10-0ffa-49ad-9ce2-a7f906edac31)
+![Screenshot_1687247972](https://github.com/yusufcandmrz/to-do/assets/93606208/57faa35a-e9d9-464d-a769-66b3a783fe36)
+![Screenshot_1687247978](https://github.com/yusufcandmrz/to-do/assets/93606208/baf2779a-21f3-4d1c-b09f-48b1c6fd28e3)
+![Screenshot_1687247982](https://github.com/yusufcandmrz/to-do/assets/93606208/0ab65f72-fe92-4798-a891-2693b6a560b0)
