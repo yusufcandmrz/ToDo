@@ -15,7 +15,8 @@ Custom component disiplinini de unutma.
 
 Başarılar :)
 
-EkranGörüntüleri:
+Ekran Görüntüleri:
+
 ![Screenshot_1687247488](https://github.com/yusufcandmrz/to-do/assets/93606208/02635b10-0ffa-49ad-9ce2-a7f906edac31)
 ![Screenshot_1687247972](https://github.com/yusufcandmrz/to-do/assets/93606208/57faa35a-e9d9-464d-a769-66b3a783fe36)
 ![Screenshot_1687247978](https://github.com/yusufcandmrz/to-do/assets/93606208/baf2779a-21f3-4d1c-b09f-48b1c6fd28e3)
